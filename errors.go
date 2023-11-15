@@ -6,8 +6,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-
-	"github.com/tuikart8/vertical-sphere/utils"
 )
 
 type FieldError struct {
